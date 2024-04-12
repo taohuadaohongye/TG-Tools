@@ -1,7 +1,7 @@
 # TG-Tools
 ## Multi-Tool Project For Telegram
 This tool is to scrape members from targeted groups and to add them into your own group.
-# Version 1.730
+# Version 1.731
 ![203226968-5e426f3a-7124-4750-b6f5-63ffcb36eabb](https://github.com/SM-Tools/-Telegram-Adder-Scraper-Members-NEW-FREE-2024/assets/157315721/ef50338e-f70e-47e3-8afe-f8c4b7a94222)
 
 ### Whats so special about this?
