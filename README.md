@@ -1,7 +1,7 @@
 # TG-Tools
 ## Multi-Tool Project For Telegram
 This tool is to scrape members from targeted groups and to add them into your own group.
-# Version 1.746
+# Version 1.747
 ![](https://github.com/jackjayyu/TG-Tools/blob/main/telegram.gif)
 
 ### Whats so special about this?
